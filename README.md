@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FA8072&height=300&section=header&text=Run10Minute&fontSize=50)
 
-### Run10Minute 달리기 게임 FRONT-END | BACK-END
+### Run10Minute 
+### 달리기 게임 FRONT-END | BACK-END
 <body>
   <br><br>
 
