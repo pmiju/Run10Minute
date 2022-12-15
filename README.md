@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=191970&height=300&section=header&text=Run10Minute&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=708090&height=300&section=header&text=Run10Minute&fontSize=50&fontColor=ffffff)
 
 ### Run10Minute 
 ### 달리기 게임 
